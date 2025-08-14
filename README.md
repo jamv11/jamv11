@@ -28,6 +28,6 @@
 <p align="center">
 <a href="https://github.com/jamv11">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamv11&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=5&theme=react"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=0&theme=react"/>
 </a>
 </p>
