@@ -6,7 +6,7 @@
 
 
 <!--tech stack icons-->
-<h2>Tecnologías Utilizadas 🔧</h2>
+<h2>Habilidades 🔧</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,mysql,linux,vscode&perline=14" />
