@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href="https://github.com/jamv11">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamv11&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamv11&layout=compact&langs_count=8&theme=github_dark_dimmed"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamv11&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamv11&layout=compact&langs_count=8&theme=github_dark"/>
 </a>
 </p>
