@@ -2,7 +2,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img width="1920" height="367" alt="encabezadogithub" src="https://github.com/user-attachments/assets/64dda228-4aad-43c2-8422-02cf8d134d23" />
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
