@@ -1,5 +1,6 @@
 <h1 align="center">¡Hola Soy Javier Moncada! 👋</h1>
-<img width="1920" height="720" alt="Presentación Mi proyecto Final Femenino Delicado Rosa y Nude" src="https://github.com/user-attachments/assets/ac09a054-0697-4443-8eac-20b2ec8fa8ef" />
+<img width="1920" height="367" alt="encabezadogithub" src="https://github.com/user-attachments/assets/64dda228-4aad-43c2-8422-02cf8d134d23" />
+
 
 <!--
 **jamv11/jamv11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
