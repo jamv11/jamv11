@@ -9,7 +9,7 @@
 <h2>Habilidades 🔧</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,mysql,linux,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,linux,vscode,wordpress&perline=14" />
   </a>
 </p>
 
@@ -28,6 +28,5 @@
 <p align="center">
 <a href="https://github.com/jamv11">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamv11&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamv11&layout=compact&langs_count=10&theme=react"/>
 </a>
 </p>
